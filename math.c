@@ -7,5 +7,5 @@ return a*b;
 
 //use this method to divide 2 integers
 int division(int a, int) {
-return a/b;
+return a-b;
 }
